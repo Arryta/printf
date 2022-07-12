@@ -5,6 +5,7 @@
  * @format: the format string
  *
  * Return: number of bytes printed
+ * To create a print form
  */
 int _printf(const char *format, ...)
 {

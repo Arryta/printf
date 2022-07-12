@@ -1,4 +1,4 @@
-.TH _PRINTF 3 " 12 JULY 2022"
+.TH _PRINTF 3 " 10 JULY 2022"
 
 .SH NAME
 .B _printf\fR \- formatted output conversion
@@ -227,4 +227,4 @@ int main(void)
 printf(3)
 
 .SH AUTHOR
-ANITAH ATURINDA AND ERNEST AIJI
+ARRYTA AND KARIMA
